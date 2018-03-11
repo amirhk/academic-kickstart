@@ -17,7 +17,7 @@ authors = ["AH Karimi", "MJ Shafiee", "Ali Ghodsi", "Alexander Wong"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Computer Vision and Imaging Systems* (CVIS) 2017."
+publication = "In *Computer Vision and Imaging Systems* (CVIS)."
 publication_short = "In *CVIS*"
 
 # Abstract and optional shortened version.
@@ -63,5 +63,3 @@ url_pdf = "http://whr.uwaterloo.ca/index.php/vsl/article/viewFile/172/159"
 # caption = "My caption :smile:"
 
 +++
-
-# More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

@@ -21,8 +21,14 @@ To remove this section, either delete `content/home/teaching.md` or edit the fro
 
 I am a teaching assistant for the following courses at the University of Waterloo:
 
-- [Jan - April 2018] CS 489/689 - Introduction to Machine Learning
-- [Sept - Dec 2017] CS 489/689
-- [May - Aug 2017] CS 234 - Data Types and Structures
-- [Jan - April 2017] CS 240 - Data Structures and Data Management
-- [Sept - Dec 2016] CS 251 - Computer Organization and Design
+# - [Jan - April 2018] CS 489/689 - Introduction to Machine Learning
+# - [Sept - Dec 2017] CS 489/689
+# - [May - Aug 2017] CS 234 - Data Types and Structures
+# - [Jan - April 2017] CS 240 - Data Structures and Data Management
+# - [Sept - Dec 2016] CS 251 - Computer Organization and Design
+
+- [01/2018 - 04/2018] CS 489/689 - Introduction to Machine Learning
+- [09/2017 - 12/2017] CS 489/689 - Introduction to Machine Learning (Head TA)
+- [05/2017 - 08/2017] CS 234 - Data Types and Structures
+- [01/2017 - 04/2017] CS 240 - Data Structures and Data Management
+- [09/2016 - 12/2016] CS 251 - Computer Organization and Design

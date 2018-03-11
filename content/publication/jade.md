@@ -17,7 +17,7 @@ authors = ["AH Karimi", "E Banijamali", "Alexander Wong", "Ali Ghodsi"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Neural Information Processing Systems (NIPS) Workshop on Learning Disentangled Representations*."
+publication = "In *Neural Information Processing Systems* (NIPS) *Workshop on Learning Disentangled Representations*."
 publication_short = "In *NIPS Workshop*"
 
 # Abstract and optional shortened version.
@@ -63,5 +63,3 @@ url_pdf = "https://arxiv.org/pdf/1711.09163.pdf"
 # caption = "My caption :smile:"
 
 +++
-
-# More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
