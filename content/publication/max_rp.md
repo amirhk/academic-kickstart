@@ -1,9 +1,9 @@
 +++
-title = "JADE: Joint Autoencoders for Dis-Entanglement"
+title = "Ensembles of Random Projections for Nonlinear Dimensionality Reduction"
 date = "2017-12-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["AH Karimi", "E Banijamali", "Alexander Wong", "Ali Ghodsi"]
+authors = ["AH Karimi", "MJ Shafiee", "Ali Ghodsi", "Alexander Wong"]
 
 # Publication type.
 # Legend:
@@ -17,15 +17,15 @@ authors = ["AH Karimi", "E Banijamali", "Alexander Wong", "Ali Ghodsi"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Neural Information Processing Systems (NIPS) Workshop on Learning Disentangled Representations*."
-publication_short = "In *NIPS Workshop*"
+publication = "In *Computer Vision and Imaging Systems* (CVIS) 2017."
+publication_short = "In *CVIS*"
 
 # Abstract and optional shortened version.
-abstract = "The problem of feature disentanglement has been explored in the literature, for the purpose of image and video processing and text analysis. State-of-the-art methods for disentangling feature representations rely on the presence of many labeled samples. In this work, we present a novel method for disentangling factors of variation in data-scarce regimes. Specifically, we explore the application of feature disentangling for the problem of supervised classification in a setting where few labeled samples exist, and there are no unlabeled samples for use in unsupervised training. Instead, a similar datasets exists which shares at least one direction of variation with the sample-constrained datasets. We train our model end-to-end using the framework of variational autoencoders and are able to experimentally demonstrate that using an auxiliary dataset with similar variation factors contribute positively to classification performance, yielding competitive results with the state-of-the-art in unsupervised learning."
+abstract = "Dimensionality reduction methods are widely used in information processing systems to better understand the underlying structures of datasets, and to improve the efficiency of algorithms for big data applications. Methods such as linear random projections have proven to be simple and highly efficient in this regard, however, there is limited theoretical and experimental analysis for nonlinear random projections. In this study, we review the theoretical framework for random projections and nonlinear rectified random projections, and introduce ensemble of nonlinear maximum random projections. We empirically evaluate the embedding performance on 3 commonly used natural datasets and compare with linear random projections and traditional techniques such as PCA, highlighting the superior generalization performance and stable embedding of the proposed method."
 # abstract_short = "A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone's GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on."
 
 # Featured image thumbnail (optional)
-image_preview = "jade.jpg"
+image_preview = "max_rp.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -36,7 +36,7 @@ selected = true
 # projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/1711.09163.pdf"
+url_pdf = "http://whr.uwaterloo.ca/index.php/vsl/article/viewFile/172/159"
 # url_preprint = "https://arxiv.org/pdf/1711.09163.pdf"
 # url_code = "#"
 # url_dataset = "#"

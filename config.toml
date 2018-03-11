@@ -47,16 +47,18 @@ defaultContentLanguageInSubdir = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  # font = "default"
+  font = "classic"
 
   # Your details.
   name = "Amir-Hossein Karimi"
-  role = "Masters of Mathematics Candidate - Artificial Intelligence and Machine Learning"
+  # role = "Masters of Mathematics Candidate - Artificial Intelligence and Machine Learning"
+  role = "Artificial Intelligence and Machine Learning"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   # organizations = [ { name = "Stanford University", url = "" } ]
-  organizations = [ { name = "University of Waterloo", url = "" }, { name = "University of Toronto", url = "" } ]
+  organizations = [ { name = "B.A.Sc. @ University of Waterloo", url = "" }, { name = "M. Math @ University of Toronto", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
