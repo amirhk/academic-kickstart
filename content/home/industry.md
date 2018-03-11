@@ -7,11 +7,11 @@ active = true
 date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Teaching"
+title = "Industry Experience"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 50
 
 +++
 
@@ -19,12 +19,11 @@ weight = 60
 
 To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`. -->
 
-I am a teaching assistant for the following courses at the University of Waterloo:
+Over the past years, I've had the wonderful opportunity to be a part of many industrial-scale projects:
 
-- [01/2018 - 04/2018] CS 489/689 - Introduction to Machine Learning
-- [09/2017 - 12/2017] CS 489/689 - Introduction to Machine Learning*
-- [05/2017 - 08/2017] CS 234 - Data Types and Structures
-- [01/2017 - 04/2017] CS 240 - Data Structures and Data Management
-- [09/2016 - 12/2016] CS 251 - Computer Organization and Design
-
-* Head TA
+- [02/2018 - present] Consulting 7 AI-focused startups as part of Next AI
+- [08/2015 - 09/2016] Software Engineer @ Facebook Inc.
+- [02/2014 - 04/2014] Software Engineer Intern @ Facebook Inc.
+- [12/2013 - 04/2014] Co-Founder and Software Lead @ Brizi Inc.
+- [05/2013 - 12/2013] Software Engineer Intern @ BlackBerry Inc.
+- [01/2013 - 09/2016] Founder and iOS Lead @ CitoPrint Inc.
