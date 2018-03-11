@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Artificial Intelligence",
     "Autonomous Systems",
-    "Algorithmic Trading and Forecasting"
+    "Algorithmic Trading and Forecasting",
     "Multi-task Learning",
     "Smart Cities",
   ]
