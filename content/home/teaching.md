@@ -15,6 +15,14 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+<!-- This is an example of using the *custom* widget to create your own homepage section.
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`. -->
+
+I am a teaching assistant for the following courses at the University of Waterloo:
+
+- [Jan - April 2018] CS 489/689 - Introduction to Machine Learning
+- [Sept - Dec 2017] CS 489/689
+- [May - Aug 2017] CS 234 - Data Types and Structures
+- [Jan - April 2017] CS 240 - Data Structures and Data Management
+- [Sept - Dec 2016] CS 251 - Computer Organization and Design
