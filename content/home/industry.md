@@ -2,7 +2,7 @@
 # Custom widget.
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
-widget = "custom"
+widget = "industry"
 active = true
 date = "2016-04-20T00:00:00"
 
@@ -27,3 +27,5 @@ Over the past years, I've had the wonderful opportunity to be a part of many ind
 - [12/2013 - 04/2014] Co-Founder and Software Lead @ Brizi Inc.
 - [05/2013 - 12/2013] Software Engineer Intern @ BlackBerry Inc.
 - [01/2013 - 09/2016] Founder and iOS Lead @ CitoPrint Inc.
+
+{{% staticref "files/resume.pdf" %}}Download my CV{{% /staticref %}}
