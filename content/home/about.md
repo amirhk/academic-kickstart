@@ -11,8 +11,10 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
+    "Autonomous Systems",
+    "Algorithmic Trading and Forecasting"
     "Multi-task Learning",
-    "Information Retrieval"
+    "Smart Cities",
   ]
 
 # List your qualifications (such as academic degrees).
